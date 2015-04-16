@@ -100,6 +100,8 @@ img { max-width: 100%; }
 .features-box-1 p {
 	font-size: 18px;
     line-height: 32px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .features-box-1 .features-box-1-icon {
@@ -107,7 +109,6 @@ img { max-width: 100%; }
     font-size: 56px;
     color: #333;
 }
-
 
 /***** Single feature *****/
 
